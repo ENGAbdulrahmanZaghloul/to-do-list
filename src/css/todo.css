@@ -1,0 +1,25 @@
+.iconbtn1:hover {
+    background-color: #c8e6c9 !important;
+}
+.iconbtn2:hover {
+    background-color: #b39ddb !important;
+}
+.iconbtn3:hover {
+    background-color: #ffcdd2 !important;
+}
+
+.todosection {
+    cursor: pointer;
+}
+.todosection:hover{
+transform: scaleY(1.1);
+transition: all 0.3  !important;
+}
+
+
+/*
+🎉 New Project with React.js ! Todo App 🚀 Excited to share my new project built using React.js ! This project was a great opportunity to dive deeper into Hooks. 💡 Project Highlights: A simple project where I explored core Hooks such as: ✅ useState for state management. ✅ useEffect for handling side effects and updates. ✅ useContext for managing shared data across components easily. I also learned how to store and retrieve data using LocalStorage,
+improving the user experience significantly. 📌 Challenges: I faced multiple challenges during development,
+but using Hooks made solving these issues much more efficient and organized. ✨ This experience has helped me better understand the power of React.js and how to build dynamic,
+user-friendly applications. Looking forward to working on more advanced projects in the future ! #ReactJS #WebDevelopment #Frontend #Hooks #useState #useEffect #useContext #LocalStorage #LearningByDoing
+*/
